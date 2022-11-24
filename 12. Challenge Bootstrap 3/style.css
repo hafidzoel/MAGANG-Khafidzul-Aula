@@ -1,0 +1,109 @@
+.container{
+    height: 850px;
+    width: 1200px; 
+    margin: auto;
+}
+.header{
+    height: 50px;
+    background-color: rgb(0, 61, 0);
+}
+.codepelita{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+.nama{
+    margin-left:850px;
+    margin-top: -45px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.people{
+    float: right;
+    margin-top: -44px;
+    margin-right: 50px;
+    color: antiquewhite;
+    
+}
+.sidebar{
+    width: 300px;
+    height: 700px;
+    background-color: black; 
+    float: left;
+    margin-top: -4px;
+   
+}
+.content{
+    width: 900px;
+    height: 700px;
+    background-color: rgb(216, 214, 214);
+    float: right;
+    margin-top: -4px;
+}
+.judul{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.login{
+    width: 700px;
+    height: 350px;
+    background-color: white;
+    margin: auto;
+}
+.akunpetugas{
+    text-align: center;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.piihan{
+    width: 300px;
+    height: 30px;
+    margin: 12px;
+}
+.container-pilihan{
+    margin-left: 25px;
+}
+.alamat{
+    width: 300px;
+    height: 45px;
+    margin: 10px;
+}
+.button1 {
+    background-color: rgb(0, 211, 7); 
+    color: black; 
+    border: 2px solid rgb(0, 211, 7);
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 5px
+  }
+  
+  .button1:hover {
+    background-color: white;
+    color: rgb(0, 211, 7);
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+  }
+.icon1{
+    margin-left: -40px;
+    margin-bottom: -5px;
+}
+.icon2{
+    margin-left: -38px;
+    margin-bottom: -5px;
+}
+.icon3{
+    margin-left: -38px;
+    margin-bottom: -5px;
+}
+.icon4{
+    margin-left: -38px;
+    margin-bottom: -5px;
+}
+.icon5{
+    margin-left: -38px;
+    margin-bottom: -5px;
+}

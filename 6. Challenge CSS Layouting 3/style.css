@@ -1,0 +1,44 @@
+
+.menu{
+    height: 50px;
+    background-color: rgb(224, 222, 222);
+    width: 1000px;
+}
+.gambar{
+    height: 500px;
+    width: 1000px;
+}
+.beranda{
+    width: 100px;
+    height: 40px ;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+}
+.formulir{
+    width: 100px;
+    height: 40px ;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+}
+.data{
+    width: 100px;
+    height: 40px ;
+    margin-left: 20px;
+    background-color: grey;
+    margin-top: 5px;
+}
+.info{
+    width: 100px;
+    height: 40px ;
+    margin-left: 20px;  
+    background-color: grey;
+    margin-top: 5px;
+}
+.header{
+    height: 500px;
+    width: 1000px;
+    background-color: red;   
+    margin-top: -4px;
+}

@@ -1,0 +1,32 @@
+.gambar{
+    width: 90%;
+    overflow: hidden;
+    margin: 40px;
+}
+.judul{
+    overflow: hidden;
+}
+.paragraf1{
+    width: 60%;
+    float: left;
+    margin-left: 20px;
+     text-align: left;
+}
+.gambar2{
+    width: 35%;
+    float: right;
+    margin right: 20px;
+    overflow: hidden;
+}
+.paragraf2{
+    width: 55%;
+    float: right;
+    margin-right: 20px;
+   text-align: right;
+}
+.gambar3{
+    width: 35%;
+    float: left;
+    margin-left: 20px;
+    overflow: hidden;
+}

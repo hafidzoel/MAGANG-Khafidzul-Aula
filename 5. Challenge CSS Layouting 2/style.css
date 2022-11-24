@@ -1,0 +1,31 @@
+.container{
+    background-color: aqua;
+    width: 900px;
+}
+.header{
+    height: 250px;
+    background-color: yellow;
+}
+.menu{
+    height: 70px;
+    background-color: red;
+}
+.sidebar{
+    height: 600px;
+    width: 30%;
+    background-color: orangered;
+    float: left;
+}
+.main{
+    height: 600px;
+    width: 70%;
+    background-color: blue;
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.footer{
+    height: 100px;
+    background-color: green;
+}

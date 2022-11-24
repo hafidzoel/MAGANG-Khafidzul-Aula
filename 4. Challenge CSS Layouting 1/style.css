@@ -1,0 +1,27 @@
+.container{
+    color: white;
+}
+.menu{
+    height: 40px;
+    background: orangered;
+    padding-left:30px;
+    padding-top: 8px;
+}
+.header{
+    height: 200px;
+    background-color: rgb(104, 5, 5);
+    padding-left:30px;
+    padding-top: 8px;
+}
+.content{
+    height: 600px;
+    background-color: blue;
+    padding-left:30px;
+    padding-top: 8px;
+}
+.footer{
+    height: 60px;
+    background-color: rgb(182, 182, 12);
+    padding-left:30px;
+    padding-top: 8px;
+}

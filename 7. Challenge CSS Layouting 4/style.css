@@ -1,0 +1,49 @@
+.container{
+height: 900px;
+}
+.header{
+height: 200px;
+background-color: blue;
+}
+.menu{
+height: 40px;
+background-color: red;
+margin-top: -18px;
+}
+.pheader{
+margin-left: 40px;
+
+}
+.pmenu{
+    margin-left: 40px;
+}
+.paragraf{
+    margin-left: 10px;
+}
+.kategori{
+    margin-left: 30px;
+}
+.isi{
+    margin-top: -10px;
+    color: white;
+    text-align: center;
+}
+.content{
+height: 600px;
+background-color: grey;
+width: 70%;
+float: left;
+}
+.sidebar{
+    float: right;
+    height: 600px;
+    background-color: rgb(206, 205, 205);
+    width: 30%;
+}
+.clear{
+    clear: both;
+}
+.footer{
+height: 60px;
+background-color: black;
+}
